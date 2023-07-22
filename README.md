@@ -17,3 +17,6 @@
 | --- | --- |
 | DBMS | [Database System Concepts 6th Edition](https://drive.google.com/file/d/13q8K7vhvQaavlgoO1eJpKQHKjaTBh8dP/view?pli=1) |
 | Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) |
+| Signals & Systems | [Automata Theory](https://vdocument.in/oppenheim-signals-and-systems-complete.html?page=1) |
+| Software Engineering (SKG) | [Rajiv Mall](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
+| Digital Forensics | [Registry](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
