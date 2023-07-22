@@ -8,3 +8,12 @@
 | No. | Assignment |
 | --- | --- |
 | #1 | [Day 1](/DBMS/)
+
+---
+
+## Suggested Books
+
+| Subject | Recommendation |
+| --- | --- |
+| DBMS | [Database System Concepts 6th Edition](https://drive.google.com/file/d/13q8K7vhvQaavlgoO1eJpKQHKjaTBh8dP/view?pli=1) |
+| Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) |
