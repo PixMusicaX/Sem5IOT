@@ -8,7 +8,7 @@ Star this repo meanwhile? 😉
 
 | No. | Assignment |
 | --- | --- |
-| 1 | [Day 1](/SOFTWARE LAB/Day1/)
+| 1 | [Day 1](/SOFTWARE_LAB/Day1/)
 
 ---
 
