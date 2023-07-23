@@ -4,7 +4,7 @@
 ---
 Star this repo meanwhile? 😉
 
-## DBMS Lab 📊
+## Software Lab 💻
 
 | No. | Assignment |
 | --- | --- |
