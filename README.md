@@ -24,4 +24,4 @@ Star this repo meanwhile? 😉
 | Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) |
 | Signals & Systems | [Oppenheim](https://vdocument.in/oppenheim-signals-and-systems-complete.html?page=1) |
 | Software Engineering (SKG) | [Rajiv Mall](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
-| Digital Forensics | [Registry](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
+| Digital Forensics | Trying to find an online source... |
