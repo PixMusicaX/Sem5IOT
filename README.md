@@ -1,5 +1,5 @@
 # 5th Semester for CSE(IOT)
-## This repo will be containing all the assignments for Sem 5
+## This repo will be containing all the assignments for Sem 5️⃣
 ### Disclaimer: The owner(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
 ---
 Star this repo meanwhile? 😉
