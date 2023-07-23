@@ -8,7 +8,7 @@ Star this repo meanwhile? 😉
 
 | No. | Assignment |
 | --- | --- |
-| #1 | [Day 1](/DBMS/Day1)
+| 1 | [Day 1](/DBMS/Day1)
 
 ---
 
