@@ -12,6 +12,10 @@ Star this repo meanwhile? 😉
 
 ---
 
+## DBMS Lab 📊
+
+---
+
 ## Suggested Books 📖
 
 | Subject | Recommendation |
