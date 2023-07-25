@@ -16,7 +16,7 @@
 
 | No. | Assignment |
 | --- | --- |
-| 1 | [Assignment 1](/)
+| 1 | [Assignment 1](/DBMS_LAB/Assignment1)
 
 Note: Faculty suggests using [liveSQL](https://www.bing.com/ck/a?!&&p=a9d0ddf772a14109JmltdHM9MTY5MDE1NjgwMCZpZ3VpZD0zM2RiODkyZi05NWM1LTZlYzUtMmZiOS05YTdhOTQ2ODZmMmQmaW5zaWQ9NTIyNQ&ptn=3&hsh=3&fclid=33db892f-95c5-6ec5-2fb9-9a7a94686f2d&psq=oraclelive&u=a1aHR0cHM6Ly9saXZlc3FsLm9yYWNsZS5jb20vYXBleC9mP3A9NTkwOjE3Ojc5ODMxMzcwOTU3NDg6Ojo6Og&ntb=1) over manual installation in device. Also note that liveSQL is unstable AF. (Be careful while running codes)
 Note 2: All Outputs should be handwritten (Printed outputs not allowed) 
