@@ -1,7 +1,8 @@
 # 5️⃣th Semester for CSE(IOT)
 ## This repo will be containing everything for Sem 5️⃣!
-### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
-#### Why not Star this repo meanwhile? 😉
+### Why not Star this repo meanwhile? 😉
+###$ Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
+
 ---
 
 ## Software Lab [💻](/SOFTWARE_LAB/PCCCSE593.pdf)
