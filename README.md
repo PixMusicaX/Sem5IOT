@@ -24,6 +24,10 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed)
 
 ---
 
+## Provided Notes 📜
+
+---
+
 ## Suggested Books 📖
 
 | Subject | Recommendation |
