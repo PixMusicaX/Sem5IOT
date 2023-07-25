@@ -29,6 +29,7 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed)
 | No. | Subject |
 | --- | --- |
 | 1 | [DBMS](/Notes/DBMS/) |
+| 2 | [Software](/Notes/Software/) |
 
 ---
 
