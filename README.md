@@ -1,7 +1,7 @@
 # 5️⃣th Semester for CSE(IOT)
 ## This repo will be containing everything for Sem 5️⃣!
 ### Why not Star this repo meanwhile? 😉
-###$ Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
+#### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
 
 ---
 
