@@ -4,7 +4,7 @@
 #### Why not Star this repo meanwhile? 😉
 ---
 
-## Software Lab 💻
+## Software Lab [💻](/SOFTWARE_LAB/PCCCSE593.pdf)
 
 | No. | Assignment |
 | --- | --- |
