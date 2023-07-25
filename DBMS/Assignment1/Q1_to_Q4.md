@@ -41,7 +41,7 @@
 ---
 
 ## 4. Difference between Desc <table name> & select * from <table name>.
-    A. DESC <table name>:
+     A. DESC <table name>:
     The DESC command is used to describe the structure of a table in the database. It provides information about the columns and their data types, as well as any constraints applied to the table.
     SELECT * FROM <table name>:
     The SELECT statement is used to retrieve data from a table in the database. It allows you to retrieve one or more rows and columns from the table based on specified conditions or filters.
