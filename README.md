@@ -12,7 +12,7 @@
 
 ---
 
-## DBMS Lab 📊
+## DBMS Lab [📊](/DBMS_LAB/PCC-CSE591.pdf)
 
 | No. | Assignment |
 | --- | --- |
