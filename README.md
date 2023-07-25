@@ -44,3 +44,11 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed)
 | Digital Forensics | Trying to find an online source... |
 
 *These recommendations are only referred to in class. For furthur information check [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf)
+
+---
+
+[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
