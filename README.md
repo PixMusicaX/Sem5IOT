@@ -42,7 +42,7 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed)
 | Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) |
 | Signals & Systems | [Oppenheim](https://vdocument.in/oppenheim-signals-and-systems-complete.html?page=1) |
 | Software Engineering (SKG) | [Rajiv Mall](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
-| Digital Forensics | Trying to find an online source... |
+| Digital Forensics | An online free pdf is hard to find... ☹️ |
 
 *These recommendations are only referred to in class. For furthur information check [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf)
 
