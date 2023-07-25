@@ -32,3 +32,4 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed)
 | Signals & Systems | [Oppenheim](https://vdocument.in/oppenheim-signals-and-systems-complete.html?page=1) |
 | Software Engineering (SKG) | [Rajiv Mall](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
 | Digital Forensics | Trying to find an online source... |
+*These recommendations are only referred to in class. For furthur information check [Syllabus](/)
