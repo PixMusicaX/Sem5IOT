@@ -28,8 +28,8 @@ MODIFY empno NUMBER(6);
 
 --q11 Write a query to Alter the table employee with multiple columns (empno, ename).
 ALTER TABLE employee
-MODIFY {empno NUMBER(6),
-        ename VARCHAR(100)};
+MODIFY (empno NUMBER(6),
+        ename VARCHAR(100));
 
 --q12 Write a query to add a new column in employee table.
 ALTER TABLE employee
