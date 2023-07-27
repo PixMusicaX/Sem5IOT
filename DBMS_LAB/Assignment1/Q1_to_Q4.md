@@ -40,7 +40,7 @@
     To Address this, VARCHAR(2) was introduced specific to Oracle Database and is used in a similar way, with the 'n' representing the maximum length of the string in characters.
 ---
 
-## 4. Difference between Desc <table name> & select * from <table name>.
+## 4. Difference between Desc /<table name/> & select * from /<table name/>.
     A. DESC <table name>:
     The DESC command is used to describe the structure of a table in the database. It provides information about the columns and their data types, as well as any constraints applied to the table.
     SELECT * FROM <table name>:
