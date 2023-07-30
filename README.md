@@ -47,6 +47,8 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed)
 
 *These recommendations are only referred to in class. For furthur information check [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf)
 
+#### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣!
+
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
