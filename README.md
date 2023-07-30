@@ -6,7 +6,7 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 
 ---
 
-## Software Lab [💻](/SOFTWARE_LAB/PCCCSE593.pdf)
+## [Software Lab 💻](/SOFTWARE_LAB/PCCCSE593.pdf)
 
 | No. | Assignment |
 | --- | --- |
@@ -14,7 +14,7 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 
 ---
 
-## DBMS Lab [📊](/DBMS_LAB/PCC-CSE591.pdf)
+## [DBMS Lab 📊](/DBMS_LAB/PCC-CSE591.pdf)
 
 | No. | Assignment |
 | --- | --- |
