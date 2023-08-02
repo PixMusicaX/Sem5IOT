@@ -26,6 +26,12 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed).
 
 ---
 
+## Automata Theory 🛺
+
+| No. | Assignment |
+| --- | --- |
+| 1 | [Assignment 1](/AUTOMATA/Assignment1) |
+
 ## Provided Notes 📜
 
 | No. | Subject |
