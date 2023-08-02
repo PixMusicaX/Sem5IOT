@@ -12,8 +12,6 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 | --- | --- |
 | 1 | [Day 1](/SOFTWARE_LAB/Day1/)
 
----
-
 ## [DBMS Lab 📊](/DBMS_LAB/PCC-CSE591.pdf)
 
 | No. | Assignment |
@@ -24,13 +22,13 @@ Note: Faculty suggests using [liveSQL](https://www.bing.com/ck/a?!&&p=a9d0ddf772
 
 Note 2: All Outputs should be handwritten (Printed outputs not allowed).
 
----
-
 ## Automata Theory 🛺
 
 | No. | Assignment |
 | --- | --- |
 | 1 | [Assignment 1](/AUTOMATA/Assignment1) |
+
+---
 
 ## Provided Notes 📜
 
@@ -38,8 +36,6 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed).
 | --- | --- |
 | 1 | [DBMS](/Notes/DBMS/) |
 | 2 | [Software](/Notes/Software/) |
-
----
 
 ## Suggested Books 📖
 
@@ -53,9 +49,9 @@ Note 2: All Outputs should be handwritten (Printed outputs not allowed).
 
 *These recommendations are only referred to in class. For furthur information check [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf)
 
-#### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣!
-
 ---
+
+#### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣!
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
 
