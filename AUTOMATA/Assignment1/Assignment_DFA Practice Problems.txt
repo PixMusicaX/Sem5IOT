@@ -1,0 +1,10 @@
+1. Draw a DFA for the language accepting strings ending with ’01’ over input alphabets ∑ = {0, 1}
+2. Draw a DFA for the language accepting strings ending with ‘abb’ over input alphabets ∑ = {a, b}
+3. Draw a DFA for the language accepting strings ending with ‘abba’ over input alphabets ∑ = {a, b}
+4. Draw a DFA for the language accepting strings ending with ‘0011’ over input alphabets ∑ = {0, 1}
+5. Draw a DFA for the language accepting strings ending with ‘0110’ over input alphabets ∑ = {0, 1} 
+6. Design a FA with ∑ = {0, 1} accepts those string which starts with 1 and ends with 0.
+7. Draw a deterministic finite automata which accept 00 and 11 at the end of a 
+string containing 0, 1 in it, e.g., 01010100 but not 000111010.
+8. Construct a DFA with ∑ = {a, b} accepts the only input “aaab”.
+9. Construct a DFA with sigma ∑ = {a, b}, accepts those strings which has even number of “a” and even number of “b”.
