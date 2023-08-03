@@ -11,6 +11,7 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 | No. | Assignment |
 | --- | --- |
 | 1 | [Day 1](/SOFTWARE_LAB/Day1/)
+|   | Day 2 |
 
 ## [DBMS Lab 📊](/DBMS_LAB/PCC-CSE591.pdf)
 
