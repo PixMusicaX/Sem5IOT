@@ -56,9 +56,3 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](https://stackover
 ---
 
 #### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣!
-
-[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
