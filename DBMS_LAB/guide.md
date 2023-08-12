@@ -7,7 +7,7 @@
 ### 3. Start XAMPP (use the xampp.exe or start menu/desktop shortcut). Start the Apache and MySQL (formerly MariaDB) Server.
 ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/7eb35798-927e-49c2-8bce-e747862a78d0)
 
-### 4. Go to [](http://localhost/phpmyadmin/).
+### 4. Go to [localhost/phpmyadmin](http://localhost/phpmyadmin/).
 ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/86b225cc-40d8-416e-bf64-ac5ba30af57b)
 
 ### 5. Click on test in the left panel.
