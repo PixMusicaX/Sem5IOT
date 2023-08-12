@@ -4,7 +4,7 @@
 
 ### 1. Download XAMPP Server from this [link](https://www.apachefriends.org/download.html). Note: Download could be slow.
 
-### 2. Install XAMPP (Preferably any other drive than C:)
+### 2. Install XAMPP (Preferably any other drive than C:).
 
 ### 3. Start XAMPP (use the xampp.exe or start menu/desktop shortcut). Start the Apache Server.
 ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/c8036431-46ce-41db-82d8-371a44dc384b)
