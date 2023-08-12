@@ -25,7 +25,7 @@ Note: Faculty suggests using [liveSQL](https://www.bing.com/ck/a?!&&p=a9d0ddf772
 
 Note 2: All Outputs should be handwritten (Printed outputs not allowed).
 
-Note 3: You can use MySQL through XAMPP (refer to this [guide](https://stackoverflow.com/questions/17823189/how-do-i-use-mysql-through-xampp)) since you'll be needing it for Software Lab anyway.
+Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.md)) since you'll be needing it for Software Lab anyway.
 
 ## Automata Theory 🛺
 
