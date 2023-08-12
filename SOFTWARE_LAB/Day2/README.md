@@ -21,3 +21,5 @@
 ### 7. Go to Registration and Fill the Form.
 
 ### 8. Observe the desired Output.
+
+### 9. Stop the Apache Server then close XAMPP control panel to free up system resources.
