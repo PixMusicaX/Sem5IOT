@@ -10,8 +10,9 @@
 ### 4. Go to [localhost/phpmyadmin](http://localhost/phpmyadmin/).
 ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/86b225cc-40d8-416e-bf64-ac5ba30af57b)
 
-### 5. Click on test in the left panel.
+### 5. Click on new in the left panel and create a database.
 ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/676e7f22-9e56-435b-a4ce-4e4e9e5f1e25)
+![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/9c48c9ea-d65c-429b-b962-55d839501c22)
 
 ### 6. Select SQL in the Navbar.
 ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/40069431-b3fd-4a28-807d-b3478edd0b7c)
