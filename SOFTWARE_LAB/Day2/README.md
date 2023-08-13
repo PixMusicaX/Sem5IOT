@@ -1,6 +1,7 @@
 # For those who haven't used XAMPP before
 
 ## This should be the Assignment1 to be done in your lab file.
+Edit: You need only write 1.html, 1form.html and result.php
 
 ### 1. Download XAMPP Server from this [link](https://www.apachefriends.org/download.html). Note: Download could be slow.
 
