@@ -6,8 +6,8 @@ CREATE TABLE employee (
     l_name VARCHAR(50),
     job_type VARCHAR(50),
     salary DECIMAL(10, 2),
-    dept VARCHAR(50),
     commission DECIMAL(10, 2),
+    dept VARCHAR(50),
     manager_id INT
 );
 
