@@ -12,7 +12,7 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 | --- | --- |
 | 1 | [Day 1](/SOFTWARE_LAB/Day1/) |
 |   | [Day 2](/SOFTWARE_LAB/Day2/) |
-| 2 | *Not possible yet due to limited information* |
+| 2 | [LMS](/SOFTWARE_LAB/library_system) |
 
 ## [DBMS Lab 📊](/DBMS_LAB/PCC-CSE591.pdf)
 
