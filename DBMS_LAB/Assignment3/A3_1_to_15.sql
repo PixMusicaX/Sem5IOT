@@ -1,4 +1,4 @@
--- Note: this is a direct continuation from A2_16_to_25.sql
+-- Note: this is a direct continuation from A2_1_to_15.sql
 
 -- 1. Show f_name, l_name and job_type from employees.
 
