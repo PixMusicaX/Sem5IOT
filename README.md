@@ -3,9 +3,6 @@
 ### Why not Star this repo meanwhile? 😉
 #### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
 If you have trouble viewing and browsing through the pages, a PC 🖱️ is always recommended. 
-<p align="center">
-  <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />
-  </p>
 
 ---
 
@@ -63,3 +60,6 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 ---
 
 #### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣!
+<p align="left">
+  <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />
+  </p>
