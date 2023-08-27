@@ -3,6 +3,9 @@
 ### Why not Star this repo meanwhile? 😉
 #### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
 If you have trouble viewing and browsing through the pages, a PC 🖱️ is always recommended. 
+<p align="center">
+  <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />
+  </p>
 
 ---
 
