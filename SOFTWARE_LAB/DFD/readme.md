@@ -5,3 +5,5 @@
 3. Go to Model -> Add Diagram -> Dataflow Diagram
 4. Data Flow will appear in your toolbox
 5. Drag and Drop elements from the toolbar to construct your DFD
+
+### P.S. Do not copy the .mdj files, they are meant for opening through the StarUML app.
