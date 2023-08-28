@@ -28,7 +28,7 @@ Note: Faculty suggests using [liveSQL](https://www.bing.com/ck/a?!&&p=a9d0ddf772
 
 Note 2: <s>All Outputs should be handwritten (Printed outputs not allowed).</s> Apparently both printed and handwritten outputs are being accepted.
 
-Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.md)) since you'll be needing it for Software Lab anyway. If you prefer OracleSQL, then download from this [link](https://www.appservgrid.com/coherence/downxe.html) and set it up.
+Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.md)) since you'll be needing it for Software Lab anyway. If you prefer OracleSQL, then download it from this [link](https://www.appservgrid.com/coherence/downxe.html) and set it up.
 
 ## Automata Theory 🛺
 
