@@ -66,3 +66,4 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 <p align="left">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />
   </p>
+<div class="tenor-gif-embed" data-postid="25652047" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/luffy-gear5-gif-25652047">Luffy Gear5 GIF</a>from <a href="https://tenor.com/search/luffy+gear5-gifs">Luffy Gear5 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
