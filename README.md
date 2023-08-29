@@ -1,3 +1,7 @@
+.md-content {
+  --md-typeset-a-color: #09bfdd;
+}
+
 # 5️⃣th Semester for CSE(IOT)
 ## This repo will be containing everything for Sem 5️⃣!
 ### Why not Star this repo meanwhile? 😉
