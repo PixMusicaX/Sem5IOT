@@ -66,6 +66,8 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 <p align="left">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />
   </p>
-  ![gear-5-gear-5-luffy](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/fc91dd73-9539-4b10-b64a-26dd780c7557)
+  <p align="left">
+  <img src="https://github.com/PixMusicaX/Sem5IOT/assets/129383302/fc91dd73-9539-4b10-b64a-26dd780c7557" />
+  </p>
 
   
