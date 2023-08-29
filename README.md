@@ -65,5 +65,5 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 
 <p align="left">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />
-  <img src="https://tenor.com/bTNqR.gif" />
   </p>
+<p>  <img src="https://tenor.com/bTNqR.gif" /></p>
