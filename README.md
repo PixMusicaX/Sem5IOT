@@ -60,7 +60,7 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 
 ---
 
-#### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣!
+#### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣! <br>
 
 
 <p align="left">
