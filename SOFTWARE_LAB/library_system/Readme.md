@@ -24,3 +24,7 @@ A. Check that "systummmm.css".
 ### 3. Bro where is styles.css?
 
 A. Honestly, you wanna write more? 
+
+### 4. I'm a girl, please upload hosting guide?
+
+A. NO.
