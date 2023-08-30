@@ -1,4 +1,4 @@
-## A1 and A2 are the outputs.
+## A1 and A2 are the outputs. Just print these two.
 
 # Setting Up StarUML
 
