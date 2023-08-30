@@ -9,3 +9,11 @@
 ## Hosting Guide
 
 _Shall only be made upon request_
+
+## Bro where is the Output?
+
+Check that "output da.docx"
+
+## Bro what nonsense file structure is this? Order???
+
+Check that "systummmmmmmm.css"
