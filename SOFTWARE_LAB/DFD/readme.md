@@ -1,3 +1,5 @@
+## A1 and A2 are the outputs.
+
 # Setting Up StarUML
 
 1. Download <s>Star Jalsha</s> StarUML from this [link](https://staruml.io/) and install it.
