@@ -8,7 +8,8 @@
 
 ## Hosting Guide
 
-_Shall only be made upon request_
+<s>_Shall only be made upon request_</s>
+Nope, Time's up.
 
 ## Bro where is the Output?
 
