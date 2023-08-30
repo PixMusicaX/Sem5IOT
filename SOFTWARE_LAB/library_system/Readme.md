@@ -13,14 +13,14 @@ Nope, Time's up.
 
 ## FAQs:
 
-### Bro where is the Output?
+### 1. Bro where is the Output?
 
-Check that "output da.docx".
+A. Check that "output da.docx".
 
-### Bro what nonsense file structure is this? Order???
+### 2. Bro what nonsense file structure is this? Order???
 
-Check that "systummmm.css".
+A. Check that "systummmm.css".
 
-### Bro where is styles.css?
+### 3. Bro where is styles.css?
 
-Honestly, you wanna write more? 
+A. Honestly, you wanna write more? 
