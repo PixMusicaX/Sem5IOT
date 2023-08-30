@@ -8,6 +8,6 @@
 4. Data Flow will appear in your toolbox.
 5. Drag and Drop elements from the toolbox to construct your DFD.
 
-## Note: You are advised to make your own DFD for library system, the one here should be used just as an example.
+## <s>Note: You are advised to make your own DFD for library system, the one here should be used just as an example.</s> 
 
 ### P.S. Do not copy the .mdj files, they are meant for opening through the StarUML app.
