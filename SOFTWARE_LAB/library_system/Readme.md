@@ -11,10 +11,16 @@
 <s>_Shall only be made upon request._</s> <br>
 Nope, Time's up.
 
-## Bro where is the Output?
+## FAQs:
 
-Check that "output da.docx"
+### Bro where is the Output?
 
-## Bro what nonsense file structure is this? Order???
+Check that "output da.docx".
 
-Check that "systummmm.css"
+### Bro what nonsense file structure is this? Order???
+
+Check that "systummmm.css".
+
+### Bro where is styles.css?
+
+Honestly, you wanna write more? 
