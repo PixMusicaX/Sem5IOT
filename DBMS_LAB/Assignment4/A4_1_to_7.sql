@@ -6,7 +6,11 @@ SELECT UPPER('hello') AS upper_case_text, LOWER('WORLD') AS lower_case_text FROM
 
 -- 2. Show the use of concat, instr and length function
 
-SELECT CONCAT ('Hello', 'World!') "Concat" FROM DUAL;
+SELECT 
+  CONCAT('Hello', ' ', 'World') AS concatenated_text,
+  INSTR('Hello World', 'World') AS position_of_world,
+  LENGTH('Hello World') AS length_of_text
+FROM DUAL;
 
 -- 3. Show the use of the following functions on numeric values:
 -- a. SQRT()
