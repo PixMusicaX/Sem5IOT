@@ -3,7 +3,7 @@
 ### Why not Star this repo meanwhile? 😉
 #### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
 If you have trouble viewing and browsing through the pages, a PC 🖱️ is always recommended. 
-##### Link to [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf). Press the Blue headers to Questions for Assignments.
+##### Link to [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf). Press the [Blue Headers](https://github.com/PixMusicaX/Sem5IOT/blob/main/README.md#software-lab-) to Questions for Assignments.
 
 ---
 
