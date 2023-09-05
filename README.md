@@ -48,7 +48,7 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | 2 | [Software Engineering](/Notes/Software/) |
 | 3 | [Formal Language & Automata Theory](/Notes/Automata) |
 
-## Suggested Books 📖
+## Suggested Books<sup>*</sup> 📖
 
 | Subject | Recommendation |
 | --- | --- |
@@ -59,6 +59,8 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | Digital Forensics | [The Basics Of Digital Forensics](https://vdoc.pub/download/the-basics-of-digital-forensics-second-edition-the-primer-for-getting-started-in-digital-forensics-5riuj6kmet40)<sup>#</sup> |
 
 *These recommendations are only referred to in class. For furthur information check [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf).
+
+<sup>#</sup> Not matched and verified with Syllabus.
 
 ---
 
