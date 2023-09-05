@@ -44,8 +44,9 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 
 | No. | Subject |
 | --- | --- |
-| 1 | [DBMS](/Notes/DBMS/) |
-| 2 | [Software](/Notes/Software/) |
+| 1 | [Database Management Systems](/Notes/DBMS/) |
+| 2 | [Software Engineering](/Notes/Software/) |
+| 3 | [Formal Language & Automata Theory](/Notes/Automata) |
 
 ## Suggested Books 📖
 
