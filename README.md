@@ -50,9 +50,9 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | 2 | [Software Engineering](/Notes/Software/) |
 | 3 | [Formal Language & Automata Theory](/Notes/Automata) |
 
-## Suggested Books<sup>*</sup> 📖
+## Suggested Books 📖
 
-| Subject | Recommendation | Extras |
+| Subject | Recommendation<sup>*</sup> | Extras |
 | --- | --- | --- |
 | DBMS | [Database System Concepts 6th Edition](https://drive.google.com/file/d/13q8K7vhvQaavlgoO1eJpKQHKjaTBh8dP/view?pli=1) |
 | Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) | [Provided E-books](/Notes/Automata/Books/)
