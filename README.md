@@ -52,8 +52,8 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 
 ## Suggested Books<sup>*</sup> 📖
 
-| Subject | Recommendation |
-| --- | --- |
+| Subject | Recommendation | Extras |
+| --- | --- | --- |
 | DBMS | [Database System Concepts 6th Edition](https://drive.google.com/file/d/13q8K7vhvQaavlgoO1eJpKQHKjaTBh8dP/view?pli=1) |
 | Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) | [Provided E-books](/Notes/Automata/Books/)
 | Signals & Systems | [Oppenheim](https://vdocument.in/oppenheim-signals-and-systems-complete.html?page=1) |
