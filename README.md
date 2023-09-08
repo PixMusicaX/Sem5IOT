@@ -55,7 +55,7 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | Subject | Recommendation<sup>*</sup> | Extras |
 | --- | --- | --- |
 | DBMS | [Database System Concepts 6th Edition](https://drive.google.com/file/d/13q8K7vhvQaavlgoO1eJpKQHKjaTBh8dP/view?pli=1) |
-| Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) | [Provided E-books](/Notes/Automata/Books/)
+| Automata Theory | [Introduction to Automata Theory](https://idoc.pub/queue/introduction-to-automata-theory-languages-by-john-e-hopcroft-rajeev-motwani-jeffrey-d-ullman-546gd9dyrqn8) | [Provided E-books](/Notes/Automata/books/)
 | Signals & Systems | [Oppenheim](https://vdocument.in/oppenheim-signals-and-systems-complete.html?page=1) |
 | Software Engineering (SKG) | [Rajiv Mall](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
 | Digital Forensics | [The Basics Of Digital Forensics](https://vdoc.pub/download/the-basics-of-digital-forensics-second-edition-the-primer-for-getting-started-in-digital-forensics-5riuj6kmet40)<sup>#</sup> |
