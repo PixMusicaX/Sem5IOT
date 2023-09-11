@@ -49,7 +49,7 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | 1 | [Database Management Systems](/Notes/DBMS/) |
 | 2 | [Software Engineering](/Notes/Software/) |
 | 3 | [Formal Language & Automata Theory](/Notes/Automata) |
-| 4 | [Constituition of India](/Notes/Constituition_of_India) |
+| 4 | [Constituition of India](/Notes/Constitution_of_India) |
 | 5️⃣ | [Principles of Management](/Notes/Management) |
 | 6 | [Signals & Systems](/Notes/S&S)
 
