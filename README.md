@@ -53,6 +53,8 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | 5️⃣ | [Principles of Management](/Notes/Management) |
 | 6 | [Signals & Systems](/Notes/S&S)
 
+##### Credits to [@BEASTgg](https://www.github.com/BEASTgg) for getting the 2022 papers!
+
 ## Suggested Books 📖
 
 | Subject | Recommendation<sup>*</sup> | Extras |
