@@ -52,7 +52,7 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | 4 | [Constituition of India](/Notes/Constitution_of_India) |
 | 5️⃣ | [Principles of Management](/Notes/Management) |
 | 6 | [Signals & Systems](/Notes/S&S)
-| 6 | [Digital Forensics](/Notes/Forensics)
+| 7 | [Digital Forensics](/Notes/Forensics)
 
 ##### Credits to [@BEASTgg](https://www.github.com/BEASTgg) for getting the 2022 papers!
 ##### Credits to @Gajala for Forensics notes! Might be incomplete.
