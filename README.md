@@ -67,6 +67,8 @@ Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.m
 | Software Engineering (SKG) | [Rajiv Mall](https://davcollegetitilagarh.org/wp-content/uploads/2020/09/fundamentals-of-software-engineering-fourth-edition-rajib-mall.pdf) |
 | Digital Forensics | [The Basics Of Digital Forensics](https://vdoc.pub/download/the-basics-of-digital-forensics-second-edition-the-primer-for-getting-started-in-digital-forensics-5riuj6kmet40)<sup>#</sup> |
 | Principles of Management | [Management: Principles and Practice](https://zoboko.com/book/543dr3x2/management-principles-and-practice) |
+| Constituition of India | [Indian Polity](https://drive.google.com/file/d/131m_q-GK1wUQlhse2d33p6_1Z58FGy2m/view) |
+
 
 *These recommendations are only referred to in class. For furthur information check [Syllabus](/5th%20Sem%20CSE(IOT%2C%20CYS%2C%20BCT)%202021%20-%202025%20Batch%20Syllabus.pdf).<br>
 <sup>#</sup>Not matched and verified with Syllabus.
