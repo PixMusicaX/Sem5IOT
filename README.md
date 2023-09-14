@@ -11,11 +11,13 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 
 | No. | Assignment |
 | --- | --- |
-| 1 | [Day 1](/SOFTWARE_LAB/Day1/) |
+| 1<sup>*</sup> | [Day 1](/SOFTWARE_LAB/Day1/) |
 |   | [Day 2](/SOFTWARE_LAB/Day2/) |
 | 2 | [LMS](/SOFTWARE_LAB/library_system) |
 | 3 | [DFD](/SOFTWARE_LAB/DFD) |
 | 4 | DFD 2 |
+
+*Please see the Day 2 readme for Assignemnt 1.
 
 ## [DBMS Lab 📊](/DBMS_LAB/PCC-CSE591.pdf)
 
