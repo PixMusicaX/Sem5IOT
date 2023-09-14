@@ -17,7 +17,7 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 | 3 | [DFD](/SOFTWARE_LAB/DFD) |
 | 4 | DFD 2 |
 
-*Please see the Day 2 readme for Assignemnt 1.
+*Please see the Day 2 readme for Assignment 1.
 
 ## [DBMS Lab 📊](/DBMS_LAB/PCC-CSE591.pdf)
 
