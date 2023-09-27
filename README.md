@@ -15,7 +15,7 @@ If you have trouble viewing and browsing through the pages, a PC 🖱️ is alwa
 |   | [Day 2](/SOFTWARE_LAB/Day2/) |
 | 2 | [LMS](/SOFTWARE_LAB/library_system) |
 | 3 | [DFD](/SOFTWARE_LAB/DFD) |
-| 4 | DFD 2 |
+| 4 | [DFD 2](/SOFTWARE_LAB/DFD2) |
 
 *Please see the Day 2 readme for Assignment 1.
 
