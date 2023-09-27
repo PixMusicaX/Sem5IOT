@@ -1,0 +1,1268 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true
+				}
+			]
+		},
+		{
+			"_type": "DFDDataFlowModel",
+			"_id": "AAAAAAGK1Lq/KM7560I=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "DataFlowModel1",
+			"ownedElements": [
+				{
+					"_type": "DFDDiagram",
+					"_id": "AAAAAAGK1Lq/Kc76W6A=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "DFDDiagram1",
+					"ownedViews": [
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAGK1LtNZM8AaWI=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LtNZM8BXOU=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LtNZM8AaWI="
+									},
+									"font": "Arial;13;0",
+									"left": 642,
+									"top": 408,
+									"width": 64.30810546875,
+									"height": 26,
+									"text": "Order Processing",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LtNZM8C5uw=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LtNZM8AaWI="
+									},
+									"font": "Arial;13;0",
+									"left": 642,
+									"top": 381,
+									"width": 64.30810546875,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 632,
+							"top": 376,
+							"width": 84.30810546875,
+							"height": 69,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1LtNZM8BXOU="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAGK1LtNZM8C5uw="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAGK1LuVjM8Me70=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1LuVjM8K1W8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LuVjM8NVTM=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LuVjM8Me70="
+									},
+									"font": "Arial;13;0",
+									"left": 474,
+									"top": 544,
+									"width": 54.18994140625,
+									"height": 52,
+									"text": "Sold Burgers Updation Process",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LuVjM8ObPA=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LuVjM8Me70="
+									},
+									"font": "Arial;13;0",
+									"left": 474,
+									"top": 517,
+									"width": 54.18994140625,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 464,
+							"top": 512,
+							"width": 74.18994140625,
+							"height": 95,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1LuVjM8NVTM="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAGK1LuVjM8ObPA="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAGK1Lwvrc8Zjk8=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1Lwvrc8Xm4w="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1Lwvrc8a+tQ=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lwvrc8Zjk8="
+									},
+									"font": "Arial;13;0",
+									"left": 818,
+									"top": 544,
+									"width": 54.18994140625,
+									"height": 39,
+									"text": "Inventory Updation Process",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1Lwvrc8bxL4=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lwvrc8Zjk8="
+									},
+									"font": "Arial;13;0",
+									"left": 818,
+									"top": 517,
+									"width": 54.18994140625,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 808,
+							"top": 512,
+							"width": 74.18994140625,
+							"height": 82,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1Lwvrc8a+tQ="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAGK1Lwvrc8bxL4="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAGK1Lxmh88lnGc=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1Lxmh88jRmk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1Lxmh88mZaY=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lxmh88lnGc="
+									},
+									"font": "Arial;13;0",
+									"left": 626,
+									"top": 696,
+									"width": 75.8798828125,
+									"height": 39,
+									"text": "Management Report Generation",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LxmiM8nWHs=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lxmh88lnGc="
+									},
+									"font": "Arial;13;0",
+									"left": 626,
+									"top": 669,
+									"width": 75.8798828125,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 616,
+							"top": 664,
+							"width": 95.8798828125,
+							"height": 82,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1Lxmh88mZaY="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAGK1LxmiM8nWHs="
+							}
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAGK1LzQf88zyXQ=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1LzQf88xEuw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LzQgM85fg8=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LzQf88zyXQ="
+									},
+									"font": "Arial;13;0",
+									"left": 442,
+									"top": 397,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LzQf880WvE=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LzQf88zyXQ="
+									},
+									"font": "Arial;13;0",
+									"left": 442,
+									"top": 402,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Customer",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1LzQf881Jeg=",
+									"_parent": {
+										"$ref": "AAAAAAGK1LzQf88zyXQ="
+									},
+									"font": "Arial;13;0",
+									"left": -32,
+									"top": 24,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 432,
+							"top": 392,
+							"width": 107.4326171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1LzQf880WvE="
+							}
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAGK1Lz5f89AJxg=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1Lz5f88+fCU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1Lz5f89GEm4=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lz5f89AJxg="
+									},
+									"font": "Arial;13;0",
+									"left": 826,
+									"top": 397,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1Lz5f89Bfbg=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lz5f89AJxg="
+									},
+									"font": "Arial;13;0",
+									"left": 826,
+									"top": 402,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Kitchen",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1Lz5f89C2xs=",
+									"_parent": {
+										"$ref": "AAAAAAGK1Lz5f89AJxg="
+									},
+									"font": "Arial;13;0",
+									"top": -8,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 816,
+							"top": 392,
+							"width": 107.4326171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1Lz5f89Bfbg="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAGK1L1Hqs9O9JU=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L1Hqs9MvaE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L1Hqs9P37Y=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L1Hqs9O9JU="
+									},
+									"font": "Arial;13;0",
+									"left": 300,
+									"top": 618,
+									"width": 65.76171875,
+									"height": 26,
+									"text": "Sold Burgers",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L1Hqs9QlL0=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L1Hqs9O9JU="
+									},
+									"font": "Arial;13;0",
+									"left": 285,
+									"top": 618,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 280,
+							"top": 608,
+							"width": 95.76171875,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L1Hqs9P37Y="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAGK1L1Hqs9QlL0="
+							}
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAGK1L2aCM9cX0A=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L2aCM9apWI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L2aCM9ilvw=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L2aCM9cX0A="
+									},
+									"font": "Arial;13;0",
+									"left": 618,
+									"top": 821,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L2aCM9dv34=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L2aCM9cX0A="
+									},
+									"font": "Arial;13;0",
+									"left": 618,
+									"top": 826,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Joint Manager",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L2aCM9e+i4=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L2aCM9cX0A="
+									},
+									"font": "Arial;13;0",
+									"left": -24,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 608,
+							"top": 816,
+							"width": 107.4326171875,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L2aCM9dv34="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAGK1L3dQc9pQKM=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L3dQc9nyvQ="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L3dQc9qg9I=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L3dQc9pQKM="
+									},
+									"font": "Arial;13;0",
+									"left": 980,
+									"top": 618,
+									"width": 65.76171875,
+									"height": 13,
+									"text": "Inventory",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGK1L3dQc9rLgA=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L3dQc9pQKM="
+									},
+									"font": "Arial;13;0",
+									"left": 965,
+									"top": 618,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 960,
+							"top": 608,
+							"width": 95.76171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L3dQc9qg9I="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAGK1L3dQc9rLgA="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1L4Qms92gw8=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L4Qmc90nM8="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1L4Qms93NdE=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L4Qms92gw8="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1L4Qmc90nM8="
+									},
+									"font": "Arial;13;0",
+									"left": 569,
+									"top": 389,
+									"width": 33.22998046875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1L4Qms92gw8="
+									},
+									"edgePosition": 1,
+									"text": "Order"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1LtNZM8AaWI="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1LzQf88zyXQ="
+							},
+							"lineStyle": 2,
+							"points": "538:410;632:410",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L4Qms93NdE="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1L4qqs+Ai7U=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L4qqs9+GDE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1L4qqs+B6mA=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L4qqs+Ai7U="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1L4qqs9+GDE="
+									},
+									"font": "Arial;13;0",
+									"left": 749,
+									"top": 389,
+									"width": 33.22998046875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1L4qqs+Ai7U="
+									},
+									"edgePosition": 1,
+									"text": "Order"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1Lz5f89AJxg="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1LtNZM8AaWI="
+							},
+							"lineStyle": 2,
+							"points": "715:410;816:410",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L4qqs+B6mA="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1L5+os+K1Mk=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L5+os+Irwg="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1L5+os+L+uc=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L5+os+K1Mk="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1L5+os+Irwg="
+									},
+									"font": "Arial;13;0",
+									"left": 551,
+									"top": 439,
+									"width": 44.078125,
+									"height": 13,
+									"alpha": -0.9600710335469431,
+									"distance": 12.206555615733702,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1L5+os+K1Mk="
+									},
+									"edgePosition": 1,
+									"text": "Reciept"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1LzQf88zyXQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1LtNZM8AaWI="
+							},
+							"lineStyle": 2,
+							"points": "648:444;648:456;512:456;512:424",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L5+os+L+uc="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1L7TdM+ZzQY=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L7TdM+XMxI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1L7TdM+a7t8=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L7TdM+ZzQY="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1L7TdM+XMxI="
+									},
+									"font": "Arial;13;0",
+									"left": 664,
+									"top": 327,
+									"width": 29.630859375,
+									"height": 13,
+									"alpha": 4.607511521106539,
+									"distance": 19.1049731745428,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1L7TdM+ZzQY="
+									},
+									"edgePosition": 1,
+									"text": "Food"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1LzQf88zyXQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1Lz5f89AJxg="
+							},
+							"lineStyle": 2,
+							"points": "832:392;832:352;520:352;520:392",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L7TdM+a7t8="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1L8/PM+oyV0=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L8/PM+mH5A="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1L8/PM+pDSk=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L8/PM+oyV0="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1L8/PM+mH5A="
+									},
+									"font": "Arial;13;0",
+									"left": 568,
+									"top": 503,
+									"width": 75.14990234375,
+									"height": 13,
+									"alpha": -0.339292675992517,
+									"distance": 54.08326913195984,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1L8/PM+oyV0="
+									},
+									"edgePosition": 1,
+									"text": "Sold Burgers"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1LuVjM8Me70="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1LtNZM8AaWI="
+							},
+							"lineStyle": 2,
+							"points": "656:444;656:528;537:528",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L8/PM+pDSk="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1L+J5M+00eg=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1L+J5M+ymuY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1L+J5M+1uwU=",
+									"_parent": {
+										"$ref": "AAAAAAGK1L+J5M+00eg="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1L+J5M+ymuY="
+									},
+									"font": "Arial;13;0",
+									"left": 719,
+									"top": 504,
+									"width": 82.38623046875,
+									"height": 13,
+									"alpha": 0.35877060177743403,
+									"distance": 51.264022471905186,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1L+J5M+00eg="
+									},
+									"edgePosition": 1,
+									"text": "Inventory data"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1Lwvrc8Zjk8="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1LtNZM8AaWI="
+							},
+							"lineStyle": 2,
+							"points": "712:444;712:528;808:528",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1L+J5M+1uwU="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1MAjpc/CwXY=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1MAjpc/Aq80="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1MAjps/Dozs=",
+									"_parent": {
+										"$ref": "AAAAAAGK1MAjpc/CwXY="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1MAjpc/Aq80="
+									},
+									"font": "Arial;13;0",
+									"left": 350,
+									"top": 568,
+									"width": 96.12255859375,
+									"height": 13,
+									"alpha": 1.3787481272431346,
+									"distance": 73.348483283569,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1MAjpc/CwXY="
+									},
+									"edgePosition": 1,
+									"text": "Sold burger data"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1L1Hqs9O9JU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1LuVjM8Me70="
+							},
+							"lineStyle": 2,
+							"points": "464:560;327:560;327:608",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1MAjps/Dozs="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1MCsn8/O9LQ=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1MCsn8/MMgE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1MCsn8/PWAE=",
+									"_parent": {
+										"$ref": "AAAAAAGK1MCsn8/O9LQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1MCsn8/MMgE="
+									},
+									"font": "Arial;13;0",
+									"left": 341,
+									"top": 680,
+									"width": 161.13525390625,
+									"height": 13,
+									"alpha": 0.15824030789641655,
+									"distance": 95.1892851112981,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1MCsn8/O9LQ="
+									},
+									"edgePosition": 1,
+									"text": "Daily Burger Depletion Data"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1Lxmh88lnGc="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1L1Hqs9O9JU="
+							},
+							"lineStyle": 2,
+							"points": "327:653;327:701;616:701",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1MCsn8/PWAE="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1MElf8/atcQ=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1MElf8/YJOY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1MElf8/bl08=",
+									"_parent": {
+										"$ref": "AAAAAAGK1MElf8/atcQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1MElf8/YJOY="
+									},
+									"font": "Arial;13;0",
+									"left": 673,
+									"top": 773,
+									"width": 118.5107421875,
+									"height": 13,
+									"alpha": 1.5855008345105863,
+									"distance": 68.00735254367721,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1MElf8/atcQ="
+									},
+									"edgePosition": 1,
+									"text": "Management Report"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1L2aCM9cX0A="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1Lxmh88lnGc="
+							},
+							"lineStyle": 2,
+							"points": "664:745;664:816",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1MElf8/bl08="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1MGdQM/nMEs=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1MGdP8/lNR8="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1MGdQM/oN3Q=",
+									"_parent": {
+										"$ref": "AAAAAAGK1MGdQM/nMEs="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1MGdP8/lNR8="
+									},
+									"font": "Arial;13;0",
+									"left": 808,
+									"top": 679,
+									"width": 175.5888671875,
+									"height": 13,
+									"alpha": -0.1332267652131507,
+									"distance": 97.86725703727473,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1MGdQM/nMEs="
+									},
+									"edgePosition": 1,
+									"text": "Daily Inventory Depletion Data"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1Lxmh88lnGc="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1L3dQc9pQKM="
+							},
+							"lineStyle": 2,
+							"points": "992:640;992:699;711:699",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1MGdQM/oN3Q="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAGK1MIAec/yjXc=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"model": {
+								"$ref": "AAAAAAGK1MIAec/wQmk="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGK1MIAec/zZ1g=",
+									"_parent": {
+										"$ref": "AAAAAAGK1MIAec/yjXc="
+									},
+									"model": {
+										"$ref": "AAAAAAGK1MIAec/wQmk="
+									},
+									"font": "Arial;13;0",
+									"left": 894,
+									"top": 527,
+									"width": 137.30615234375,
+									"height": 13,
+									"alpha": -2.1112161526957687,
+									"distance": 34.9857113690718,
+									"hostEdge": {
+										"$ref": "AAAAAAGK1MIAec/yjXc="
+									},
+									"edgePosition": 1,
+									"text": "Updated Inventory Data"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGK1L3dQc9pQKM="
+							},
+							"tail": {
+								"$ref": "AAAAAAGK1Lwvrc8Zjk8="
+							},
+							"lineStyle": 2,
+							"points": "881:552;992:552;992:608",
+							"nameLabel": {
+								"$ref": "AAAAAAGK1MIAec/zZ1g="
+							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGK1MOYk9AJzJk=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lq/Kc76W6A="
+							},
+							"font": "Arial;20;0",
+							"left": 616,
+							"top": 264,
+							"width": 225,
+							"height": 52,
+							"text": "Burger Joint"
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAGK1LtNZM7+6J4=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Order Processing",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1L4qqs9+GDE=",
+							"_parent": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"name": "Order",
+							"source": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1Lz5f88+fCU="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1L5+os+Irwg=",
+							"_parent": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"name": "Reciept",
+							"source": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1LzQf88xEuw="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1L8/PM+mH5A=",
+							"_parent": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"name": "Sold Burgers",
+							"source": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1LuVjM8K1W8="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1L+J5M+ymuY=",
+							"_parent": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"name": "Inventory data",
+							"source": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1Lwvrc8Xm4w="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAGK1LuVjM8K1W8=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Sold Burgers Updation Process",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1MAjpc/Aq80=",
+							"_parent": {
+								"$ref": "AAAAAAGK1LuVjM8K1W8="
+							},
+							"name": "Sold burger data",
+							"source": {
+								"$ref": "AAAAAAGK1LuVjM8K1W8="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1L1Hqs9MvaE="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAGK1Lwvrc8Xm4w=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Inventory Updation Process",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1MIAec/wQmk=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lwvrc8Xm4w="
+							},
+							"name": "Updated Inventory Data",
+							"source": {
+								"$ref": "AAAAAAGK1Lwvrc8Xm4w="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1L3dQc9nyvQ="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAGK1Lxmh88jRmk=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Management Report Generation",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1MElf8/YJOY=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lxmh88jRmk="
+							},
+							"name": "Management Report",
+							"source": {
+								"$ref": "AAAAAAGK1Lxmh88jRmk="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1L2aCM9apWI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAGK1LzQf88xEuw=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Customer",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1L4Qmc90nM8=",
+							"_parent": {
+								"$ref": "AAAAAAGK1LzQf88xEuw="
+							},
+							"name": "Order",
+							"source": {
+								"$ref": "AAAAAAGK1LzQf88xEuw="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1LtNZM7+6J4="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAGK1Lz5f88+fCU=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Kitchen",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1L7TdM+XMxI=",
+							"_parent": {
+								"$ref": "AAAAAAGK1Lz5f88+fCU="
+							},
+							"name": "Food",
+							"source": {
+								"$ref": "AAAAAAGK1Lz5f88+fCU="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1LzQf88xEuw="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAGK1L1Hqs9MvaE=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Sold Burgers",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1MCsn8/MMgE=",
+							"_parent": {
+								"$ref": "AAAAAAGK1L1Hqs9MvaE="
+							},
+							"name": "Daily Burger Depletion Data",
+							"source": {
+								"$ref": "AAAAAAGK1L1Hqs9MvaE="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1Lxmh88jRmk="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAGK1L2aCM9apWI=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Joint Manager"
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAGK1L3dQc9nyvQ=",
+					"_parent": {
+						"$ref": "AAAAAAGK1Lq/KM7560I="
+					},
+					"name": "Inventory",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAGK1MGdP8/lNR8=",
+							"_parent": {
+								"$ref": "AAAAAAGK1L3dQc9nyvQ="
+							},
+							"name": "Daily Inventory Depletion Data",
+							"source": {
+								"$ref": "AAAAAAGK1L3dQc9nyvQ="
+							},
+							"target": {
+								"$ref": "AAAAAAGK1Lxmh88jRmk="
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
