@@ -37,7 +37,7 @@ Note 2: <s>All Outputs should be handwritten (Printed outputs not allowed).</s> 
 
 Note 3: You can use MySQL through XAMPP (refer to this [guide](/DBMS_LAB/guide.md)) since you'll be needing it for Software Lab anyway.
 
-Note 4: If you prefer OracleSQL, then download it from this [link](https://www.appservgrid.com/coherence/downxe.html) and install it. Remember [username: system | password : (what you set during installation)]. Go to All Apps -> Oracle 10G Express Edition. "Start Database" to start the database, "Go to Database Homepage" to write SQL commands, "Stop Database" to stop the local hosting. Try following this [guide](https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/prod/install/wininst/wininst_otn.htm).
+Note 4: If you prefer OracleSQL, then download it from this [link](https://www.appservgrid.com/coherence/downxe.html) and install it. Remember [username: system | password : (what you set during installation)]. Go to All Apps -> Oracle 10G Express Edition -> "Go to Database Homepage" to write SQL commands. Try following the "Getting Started" page in the same folder. If you have issues with the installation simply uninstall and reinstall (don't go for repair) using the same setup.
 
 ## Automata Theory 🛺
 
