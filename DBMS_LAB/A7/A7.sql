@@ -283,9 +283,6 @@ VALUES (402, 2, 2753);
 INSERT INTO TEXT (book_isbn, book_title, publisher, author)
 VALUES (2751, 'Unraveled Mysteries', 'Com Media Llc', 'Randy');
 
-INSERT INTO TEXT (book_isbn, book_title, publisher, author)
-VALUES (2753, 'Secrets Unveiled', 'Hidden Knowledge Pub', 'Samuel');
-
 SELECT BA.course_no, BA.book_isbn, T.book_title
 FROM BOOK_ADOPTION BA
 JOIN TEXT T ON BA.book_isbn = T.book_isbn
