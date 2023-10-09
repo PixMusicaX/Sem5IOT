@@ -47,6 +47,12 @@ Note 4: If you prefer OracleSQL, then download it from this [link](https://www.a
 | --- | --- |
 | 1 | [Assignment 1](/AUTOMATA/Assignment1) |
 
+## Signals & Systems :electron:
+
+| No. | Assignment |
+| --- | --- |
+| 1 |   |
+| 2 | [Module 1 & 2 by CSE_3D_13](/S&S/CSE_3C_13.pdf) |
 ---
 
 ## Provided Notes 📜
