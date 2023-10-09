@@ -47,7 +47,7 @@ Note 4: If you prefer OracleSQL, then download it from this [link](https://www.a
 | --- | --- |
 | 1 | [Assignment 1](/AUTOMATA/Assignment1) |
 
-## Signals & Systems :electron:
+## Signals & Systems 〰️
 
 | No. | Assignment |
 | --- | --- |
