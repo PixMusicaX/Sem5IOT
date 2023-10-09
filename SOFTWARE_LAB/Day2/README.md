@@ -3,7 +3,7 @@
 ## This should be the Assignment1 to be done in your lab file.
 Edit: You need only write 1.html, 1form.html and result.php
 
-### 1. Download XAMPP Server from this [link](https://www.apachefriends.org/download.html). Note: Download could be slow.
+### 1. Download XAMPP Server from this [link](https://drive.google.com/file/d/184SXKWo3Fc12QwyTjR9mRYEqtOgp8pDS/view?usp=sharing).
 
 ### 2. Install XAMPP (Preferably any other drive than C:).
 
