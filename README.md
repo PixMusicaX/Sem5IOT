@@ -1,5 +1,5 @@
 # 5️⃣th Semester for CSE(IOT)
-## This repo will be containing everything for Sem 5️⃣!
+## This repo has been discontinued. You can check this [repo](https://github.com/BEASTgg/5thsem) for future updates!
 ### Why not Star this repo meanwhile? 😉
 #### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
 If you have trouble viewing and browsing through the pages, a PC 🖱️ is always recommended. 
@@ -87,8 +87,6 @@ Note 4: If you prefer OracleSQL, then download it from this [link](https://www.a
 <sup>#</sup>Not matched and verified with Syllabus.
 
 ---
-
-#### Here's another great [repo](https://github.com/BEASTgg/5thsem) for Sem5️⃣! <br><br>
 
 <p align="left">
   <img src="https://github.com/PixMusicaX/PiXMusicaX/blob/main/Okabe%20Rintaro%20Typing%20on%20the%20computer%20ASMR.gif" />  <img src="https://github.com/PixMusicaX/Sem5IOT/assets/129383302/fc91dd73-9539-4b10-b64a-26dd780c7557" width="400" height="225"/>
