@@ -37,3 +37,4 @@ A. Create a database called 'softass2' and add the following table:<br>
     ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/d50e4ae4-941d-4566-8493-4143b9caa828)<br>
     users<br>
     ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/b2832216-ce31-4573-ac83-64b7e367d408)<br>
+    Also, id should have auto increment as primary key and borrowed_by should be NULL by default
