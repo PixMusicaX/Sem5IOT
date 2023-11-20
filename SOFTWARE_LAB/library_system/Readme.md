@@ -33,6 +33,6 @@ A. NO.
 
 A. Create a database called 'softass2' and add the following table:<br>
     books<br>
-    ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/d50e4ae4-941d-4566-8493-4143b9caa828)
+    ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/d50e4ae4-941d-4566-8493-4143b9caa828)<br>
     users<br>
-    ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/b2832216-ce31-4573-ac83-64b7e367d408)
+    ![image](https://github.com/PixMusicaX/Sem5IOT/assets/129383302/b2832216-ce31-4573-ac83-64b7e367d408)<br>
