@@ -9,7 +9,8 @@
 ## Hosting Guide
 
 <s>_Shall only be made upon request._</s> <br>
-Nope, Time's up.
+<s>Nope, Time's up.</s>
+One Request Processed.
 
 ## FAQs:
 
