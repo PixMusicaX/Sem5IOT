@@ -1,5 +1,5 @@
 # 5️⃣th Semester for CSE(IOT)
-## Go to [Next Sem]()...
+## Go to [Next Sem](https://github.com/PixMusicaX/Sem6IoT)...
 ## This repo has been discontinued. You can check this [repo](https://github.com/BEASTgg/5thsem) for future updates!
 ### Why not Star this repo meanwhile? 😉
 #### Disclaimer: The handler(s) of this repository will not be responsible for any wrong assignments and/or any other discrepencies caused on your end.
